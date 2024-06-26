@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-    <img src="https://github.com/posaakhil/About_Me/blob/main/Assets/profile_banner.jpeg" alt="Profile Banner"/>
+    <img src="https://github.com/posaakhil/posaakhil/blob/main/Assets/profile_banner.jpeg" alt="Profile Banner"/>
 </h1>
 
 <h1 align="center">
@@ -59,7 +59,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="posaakhil" height="30" width="40" />
   </a>
   <a href="your-resume-link" target="blank">
-    <img align="center" src="https://github.com/posaakhil/About_Me/blob/main/Assets/Protfolio.jpg" alt="posaakhil" height="30" width="40" />
+    <img align="center" src="https://github.com/posaakhil/posaakhil/blob/main/Assets/Protfolio.jpg" alt="posaakhil" height="30" width="40" />
   </a>
 </p>
 
